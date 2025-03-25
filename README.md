@@ -12,6 +12,7 @@ An interactive Power BI dashboard visualizing Super Store sales, profit, and shi
 5.Forecast section helps businesses prepare for upcoming demand peaks and dips. <br>
 
 6.Perfect for retail sales managers, marketing teams, and supply chain analysts.<br>
+
 ![Screenshot 2025-03-25 193825](https://github.com/user-attachments/assets/1ca2cb67-2b83-498b-9c2c-52cd5089bc3a)
 ![Screenshot 2025-03-25 193843](https://github.com/user-attachments/assets/af6564cf-8609-4c4d-918f-03842f9fd185)
 
