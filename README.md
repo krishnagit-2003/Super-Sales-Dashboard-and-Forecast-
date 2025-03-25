@@ -1,6 +1,7 @@
 # Super-Sales-Dashboard-and-Forecast-
 An interactive Power BI dashboard visualizing Super Store sales, profit, and shipment data with category and region insights for strategic planning.
 <br>
+# Project Discription-
 1.Tools & technologies used: Power BI, CSV. <br>
 
 2.Built using Power BI with interactive slicers and dynamic charts. <br>
@@ -15,5 +16,8 @@ An interactive Power BI dashboard visualizing Super Store sales, profit, and shi
 
 ![Screenshot 2025-03-25 193825](https://github.com/user-attachments/assets/1ca2cb67-2b83-498b-9c2c-52cd5089bc3a)
 ![Screenshot 2025-03-25 193843](https://github.com/user-attachments/assets/af6564cf-8609-4c4d-918f-03842f9fd185)
+
+# Conclusion-
+This Power BI dashboard visualizes key sales metrics, category and region-wise performance, and includes a 15-day forecast. It helps in tracking trends and supporting data-driven business decisions.
 
 
