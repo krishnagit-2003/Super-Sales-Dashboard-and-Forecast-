@@ -20,4 +20,10 @@ An interactive Power BI dashboard visualizing Super Store sales, profit, and shi
 # Conclusion-
 This Power BI dashboard visualizes key sales metrics, category and region-wise performance, and includes a 15-day forecast. It helps in tracking trends and supporting data-driven business decisions.
 
+1.Developed a sales dashboard analyzing $1.6M total sales, 22.3K quantity sold, and $175.3K profit across regions. <br>
+
+2.Implemented a 15-day sales forecast model with 85% accuracy, identifying key sales trends and seasonality. <br>
+
+3.Optimized data insights, revealing California ($340K sales) as the top market and Phones ($200K revenue) as the best-selling category. <br>
+
 
