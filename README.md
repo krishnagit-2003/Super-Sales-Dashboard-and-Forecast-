@@ -24,6 +24,6 @@ This Power BI dashboard visualizes key sales metrics, category and region-wise p
 
 2.Implemented a 15-day sales forecast model with 85% accuracy, identifying key sales trends and seasonality. <br>
 
-3.Optimized data insights, revealing California ($340K sales) as the top market and Phones ($200K revenue) as the best-selling category. <br>
+3.Optimized data insights, revealing California ($340K sales) as the top market and Phones ($200K revenue) as the  best-selling category. <br>
 
 
