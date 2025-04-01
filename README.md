@@ -1,8 +1,4 @@
-## Project Files
-1. [Sales_dashboard.pbit](Sales_dashboard.pbit)
-2. [SuperStore_Sales_Dataset.csv](SuperStore_Sales_Dataset.csv)
-3. [Supersales_dataset.csv.xlsx](Supersales_dataset.csv.xlsx)
-4. [README.md](README.md)
+
 
 # Super-Sales-Dashboard-and-Forecast-
 An interactive Power BI dashboard visualizing Super Store sales, profit, and shipment data with category and region insights for strategic planning.
